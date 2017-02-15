@@ -1,0 +1,94 @@
+{
+  "id": "4a2b5ca9-4046-4629-b5ea-c69296d3768c",
+  "name": "wine-pairing",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Red Meat",
+      "synonyms": [
+        "Steak",
+        "Beef",
+        "Red meat",
+        "Lamb",
+        "Bolognese",
+        "Meatballs",
+        "Sausage",
+        "meat"
+      ]
+    },
+    {
+      "value": "Pasta",
+      "synonyms": [
+        "Pasta"
+      ]
+    },
+    {
+      "value": "Light meat",
+      "synonyms": [
+        "Light meat",
+        "Chicken",
+        "Pork",
+        "Carbonara"
+      ]
+    },
+    {
+      "value": "Sweets",
+      "synonyms": [
+        "Dessert",
+        "Sweets"
+      ]
+    },
+    {
+      "value": "Hard cheese",
+      "synonyms": [
+        "Hard cheese"
+      ]
+    },
+    {
+      "value": "Soft cheese",
+      "synonyms": [
+        "Soft cheese"
+      ]
+    },
+    {
+      "value": "Rich fish",
+      "synonyms": [
+        "Rich fish"
+      ]
+    },
+    {
+      "value": "Vegetables",
+      "synonyms": [
+        "Vegetables",
+        "Vegetarian",
+        "Salad",
+        "Greens"
+      ]
+    },
+    {
+      "value": "Roasted vegetables",
+      "synonyms": [
+        "Roasted vegetables"
+      ]
+    },
+    {
+      "value": "Starches",
+      "synonyms": [
+        "Starches",
+        "Starchy",
+        "Crackers",
+        "Bread",
+        "Toast"
+      ]
+    },
+    {
+      "value": "Cured meat",
+      "synonyms": [
+        "Cured meat",
+        "Salami"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

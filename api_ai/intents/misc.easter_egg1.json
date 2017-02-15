@@ -1,0 +1,47 @@
+{
+  "userSays": [
+    {
+      "id": "e30804b3-3c89-4a92-a8f3-1dd8ffd9e19a",
+      "data": [
+        {
+          "text": "I want to get trashed"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ee86b887-ac04-43db-a357-85c2139169ed",
+      "data": [
+        {
+          "text": "I\u0027d like to get white girl wasted!"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "df3de562-653e-41b3-8288-23f46f2d935a",
+  "name": "misc.easter_egg1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Ooh la la! I recommend a white girl rose 2014. It smells like a watermelon Jolly Rancher, and the color is that factory pink rather than a salmon color. There’s a lot of tart, almost citric acid up front, like they picked it ripe and then acidified, but there’s still residual sugar. It taste like lemonade. The people who would drink this are everyone between the ages of 17 and, let’s say, 39."
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

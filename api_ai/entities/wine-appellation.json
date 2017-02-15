@@ -1,0 +1,199 @@
+{
+  "id": "c8c5cefa-3993-4cc5-8650-816d83d12e42",
+  "name": "wine-appellation",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Italy",
+      "synonyms": [
+        "Italy",
+        "Tuscany",
+        "Tuscan",
+        "Piedmont",
+        "Sicily",
+        "Veneto",
+        "Southern Italy",
+        "Friuli-Venezia Giulia",
+        "Elsewhere in Italy",
+        "Italian",
+        "Sicilian",
+        "Venetian"
+      ]
+    },
+    {
+      "value": "France",
+      "synonyms": [
+        "France",
+        "Champagne",
+        "Burgundy",
+        "Province",
+        "Alsace",
+        "Chablis",
+        "Loire",
+        "Margaux",
+        "Medoc",
+        "Fronsac",
+        "Pomerol",
+        "Gigondas",
+        "Tavel",
+        "Vacqueyras",
+        "Condrieu",
+        "Hermitage",
+        "Rasteau",
+        "Cornas",
+        "French"
+      ]
+    },
+    {
+      "value": "Australia",
+      "synonyms": [
+        "Australia",
+        "Margaret River",
+        "South Australia",
+        "McLaren Vale",
+        "Victoria",
+        "Coonawarra",
+        "Australian"
+      ]
+    },
+    {
+      "value": "Spain",
+      "synonyms": [
+        "Spain",
+        "Rioja",
+        "Ribera del Duero",
+        "Priorat",
+        "Navarra",
+        "Jumilla",
+        "Rueda",
+        "Rias Baixas",
+        "Spanish"
+      ]
+    },
+    {
+      "value": "Chile",
+      "synonyms": [
+        "Chile",
+        "Chilean"
+      ]
+    },
+    {
+      "value": "Argentina",
+      "synonyms": [
+        "Argentina",
+        "Argentinian"
+      ]
+    },
+    {
+      "value": "Portugal",
+      "synonyms": [
+        "Portugal",
+        "Portugese"
+      ]
+    },
+    {
+      "value": "South Africa",
+      "synonyms": [
+        "South Africa",
+        "African"
+      ]
+    },
+    {
+      "value": "Greece",
+      "synonyms": [
+        "Greece",
+        "Greek"
+      ]
+    },
+    {
+      "value": "China",
+      "synonyms": [
+        "China",
+        "Chinese"
+      ]
+    },
+    {
+      "value": "Canada",
+      "synonyms": [
+        "Canada",
+        "Canadian"
+      ]
+    },
+    {
+      "value": "New Zealand",
+      "synonyms": [
+        "New Zealand",
+        "Marlborough",
+        "Martinborough",
+        "Central Otago",
+        "Otago",
+        "Hawkes Bay",
+        "Waipara Valley"
+      ]
+    },
+    {
+      "value": "California",
+      "synonyms": [
+        "California",
+        "Sonoma County",
+        "Napa Valley",
+        "Carneros",
+        "Central coast",
+        "North Coast",
+        "Santa Cruz",
+        "Santa Cruz Mountains",
+        "Sierra Foothills",
+        "Santa Maria Valley",
+        "Santa Maria",
+        "Californian"
+      ]
+    },
+    {
+      "value": "Oregon",
+      "synonyms": [
+        "Oregon",
+        "Willamette Valley",
+        "Rogue River Valley",
+        "Rogue River",
+        "Umpqua Valley",
+        "Umpqua"
+      ]
+    },
+    {
+      "value": "Other US",
+      "synonyms": [
+        "Other US",
+        "United States",
+        "America",
+        "Arizona",
+        "Idaho",
+        "Texas",
+        "Virginia",
+        "New York",
+        "New Mexico",
+        "American"
+      ]
+    },
+    {
+      "value": "Japan",
+      "synonyms": [
+        "Japan",
+        "Niigata",
+        "Hokkaido",
+        "Kyoto",
+        "Akita",
+        "Iwate",
+        "Shimane",
+        "Ibaraki",
+        "Tochigi",
+        "Tottori",
+        "Osaka",
+        "Hiroshima",
+        "Shizuoka",
+        "Japanese"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

@@ -1,0 +1,452 @@
+{
+  "userSays": [
+    {
+      "id": "a962af73-4f9a-4652-a096-32b900a253b0",
+      "data": [
+        {
+          "text": "What is a nice wine from "
+        },
+        {
+          "text": "California",
+          "alias": "wine-appellation",
+          "meta": "@wine-appellation",
+          "userDefined": false
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "22e538b8-6d30-49d7-87a4-d4e9f28bc815",
+      "data": [
+        {
+          "text": "What wine would work with "
+        },
+        {
+          "text": "fish",
+          "alias": "wine-pairing",
+          "meta": "@wine-pairing",
+          "userDefined": false
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b2340d94-9ed9-42af-87a5-6b6f63340b91",
+      "data": [
+        {
+          "text": "Can I have an "
+        },
+        {
+          "text": "expensive",
+          "alias": "wine-price",
+          "meta": "@wine-price",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Rosé",
+          "alias": "wine-type",
+          "meta": "@wine-type",
+          "userDefined": false
+        },
+        {
+          "text": " with a little bit of "
+        },
+        {
+          "text": "crisp",
+          "alias": "wine-flavors",
+          "meta": "@wine-flavors",
+          "userDefined": false
+        },
+        {
+          "text": " to it"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ce187c1b-a5a8-49f4-a720-b3fb98475dfc",
+      "data": [
+        {
+          "text": "I want a "
+        },
+        {
+          "text": "cheap",
+          "alias": "wine-price",
+          "meta": "@wine-price",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "red",
+          "alias": "wine-type",
+          "meta": "@wine-type",
+          "userDefined": false
+        },
+        {
+          "text": " wine with a "
+        },
+        {
+          "text": "round",
+          "alias": "wine-flavors",
+          "meta": "@wine-flavors",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "body",
+          "alias": "wine-flavors",
+          "meta": "@wine-flavors",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0060f2b0-599c-4ed9-a4e0-5a2cc5900c72",
+      "data": [
+        {
+          "text": "I\u0027m looking for a "
+        },
+        {
+          "text": "rich",
+          "alias": "wine-flavors",
+          "meta": "@wine-flavors",
+          "userDefined": false
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "oaky",
+          "alias": "wine-flavors",
+          "meta": "@wine-flavors",
+          "userDefined": false
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "red",
+          "alias": "wine-type",
+          "meta": "@wine-type",
+          "userDefined": false
+        },
+        {
+          "text": " Wine from "
+        },
+        {
+          "text": "Italy",
+          "alias": "wine-appellation",
+          "meta": "@wine-appellation",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b613e8f0-7dae-49c3-a5b5-dd696a12f5cf",
+      "data": [
+        {
+          "text": "Can you suggest an "
+        },
+        {
+          "text": "expensive",
+          "alias": "wine-price",
+          "meta": "@wine-price",
+          "userDefined": false
+        },
+        {
+          "text": " wine from "
+        },
+        {
+          "text": "France",
+          "alias": "wine-appellation",
+          "meta": "@wine-appellation",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8e21a7f2-5ebb-4dd4-8387-8132e0138210",
+      "data": [
+        {
+          "text": "I\u0027m looking for an "
+        },
+        {
+          "text": "expensive",
+          "alias": "wine-price",
+          "meta": "@wine-price",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "rosé",
+          "alias": "wine-type",
+          "meta": "@wine-type",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d782a808-545b-4d1f-9930-37992938e5f4",
+      "data": [
+        {
+          "text": "I\u0027d like a "
+        },
+        {
+          "text": "cheap",
+          "alias": "wine-price",
+          "meta": "@wine-price",
+          "userDefined": false
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "red",
+          "alias": "wine-type",
+          "meta": "@wine-type",
+          "userDefined": false
+        },
+        {
+          "text": " wine"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c887ac41-8dee-47f2-9a36-2adcd1272329",
+      "data": [
+        {
+          "text": "Can you suggest me a "
+        },
+        {
+          "text": "red",
+          "alias": "wine-type",
+          "meta": "@wine-type",
+          "userDefined": false
+        },
+        {
+          "text": " wine"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "839ab3a2-3699-44b6-8b6e-30bfa745c046",
+      "data": [
+        {
+          "text": "Suggest me a "
+        },
+        {
+          "text": "white",
+          "alias": "wine-type",
+          "meta": "@wine-type",
+          "userDefined": false
+        },
+        {
+          "text": " wine from "
+        },
+        {
+          "text": "Brazil",
+          "alias": "wine-appellation",
+          "meta": "@wine-appellation",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "58b77d04-f820-4f94-a17b-611b9c4202e6",
+      "data": [
+        {
+          "text": "Is there a "
+        },
+        {
+          "text": "Rosé",
+          "alias": "wine-type",
+          "meta": "@wine-type",
+          "userDefined": false
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "Italy",
+          "alias": "wine-appellation",
+          "meta": "@wine-appellation",
+          "userDefined": false
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5f81d37a-bc2d-4cd7-b0ab-0213a619d487",
+      "data": [
+        {
+          "text": "I\u0027d like a "
+        },
+        {
+          "text": "red",
+          "alias": "wine-type",
+          "meta": "@wine-type",
+          "userDefined": false
+        },
+        {
+          "text": " wine from "
+        },
+        {
+          "text": "France",
+          "alias": "wine-appellation",
+          "meta": "@wine-appellation",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "69fd80b2-9ae9-4b75-94c4-0621bd2ca4a1",
+      "data": [
+        {
+          "text": "Can I get a wine from "
+        },
+        {
+          "text": "France",
+          "alias": "wine-appellation",
+          "meta": "@wine-appellation",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "36936318-0b80-41b9-b850-2d4d5bca391b",
+      "data": [
+        {
+          "text": "Could you recommend a wine from "
+        },
+        {
+          "text": "California",
+          "alias": "wine-appellation",
+          "meta": "@wine-appellation",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "197988d2-6060-4b34-b28e-5f243c75c02a",
+      "data": [
+        {
+          "text": "I\u0027d like a wine from "
+        },
+        {
+          "text": "Napa Valley",
+          "alias": "wine-appellation",
+          "meta": "@wine-appellation",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "0ce0b0b0-8db5-4cac-9a22-dc6c03613038",
+  "name": "recommend.generic",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "recommend",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "dataType": "@wine-appellation",
+          "name": "wine-appellation",
+          "value": "$wine-appellation",
+          "isList": false
+        },
+        {
+          "required": false,
+          "dataType": "@wine-type",
+          "name": "wine-type",
+          "value": "$wine-type",
+          "prompts": [
+            "Of course, what type of wine were you thinking? Red?",
+            "Absolutely. Would you like a red, a white, or a blend?"
+          ],
+          "isList": false
+        },
+        {
+          "dataType": "@wine-price",
+          "name": "wine-price",
+          "value": "$wine-price",
+          "isList": false
+        },
+        {
+          "dataType": "@wine-flavors",
+          "name": "wine-flavors",
+          "value": "$wine-flavors",
+          "isList": true
+        },
+        {
+          "dataType": "@wine-pairing",
+          "name": "wine-pairing",
+          "value": "$wine-pairing",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

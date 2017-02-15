@@ -1,0 +1,47 @@
+{
+  "userSays": [
+    {
+      "id": "5a12b0de-c779-4000-8ce6-55fe864e4582",
+      "data": [
+        {
+          "text": "Explain wine to me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "091b72a1-b4df-4fba-8b51-2aad662fe631",
+      "data": [
+        {
+          "text": "What is wine?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "9162fb4e-6532-4679-9316-9d2fcd734ae3",
+  "name": "misc.describe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Wine is the fermented juice of grapes, made in many varieties, such as red, white, sweet, dry, still, and sparkling, for use as a beverage, in cooking, in religious rites, etc., and usually having an alcoholic content of 14 percent or less.\n\nWould you like any recommendations? Feel free to ask about a region, type and price."
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

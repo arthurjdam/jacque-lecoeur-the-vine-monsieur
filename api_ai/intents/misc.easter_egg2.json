@@ -1,0 +1,56 @@
+{
+  "userSays": [
+    {
+      "id": "8bb1e243-54eb-4d62-9bd3-b3140a8c428f",
+      "data": [
+        {
+          "text": "What\u0027s a fun fact"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4ee1d7a0-269f-4b0b-b104-ee7ed050086b",
+      "data": [
+        {
+          "text": "Tell me something interest"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f2092a91-0cc3-4595-afd0-ed57453e509b",
+      "data": [
+        {
+          "text": "Tell me something fun"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "782d54a0-7d46-4cca-a542-2d5e0f88bc7c",
+  "name": "misc.easter_egg2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "I’ve trained my dog to bring me red wine. It’s a Bordeaux collie."
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

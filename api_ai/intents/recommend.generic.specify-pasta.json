@@ -1,0 +1,72 @@
+{
+  "userSays": [
+    {
+      "id": "73929fb8-e127-445c-b4e2-3b41b7bbf5fa",
+      "data": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "meat",
+          "alias": "wine-pairing",
+          "meta": "@wine-pairing",
+          "userDefined": true
+        },
+        {
+          "text": " sauce"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9e0703e4-fac3-4c39-a2a3-3cc7180b5798",
+      "data": [
+        {
+          "text": "Carbonara",
+          "alias": "wine-pairing",
+          "meta": "@wine-pairing",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "3defe1a0-2859-4ebc-9185-59897349cbd5",
+  "name": "recommend.generic.specify-pasta",
+  "auto": true,
+  "contexts": [
+    "recommend"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "recommend",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "dataType": "@wine-pairing",
+          "name": "wine-pairing",
+          "value": "$wine-pairing",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

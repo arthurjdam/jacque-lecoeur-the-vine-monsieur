@@ -1,0 +1,35 @@
+{
+  "id": "3cf809f5-84a3-4118-9f09-122fb2913979",
+  "name": "wine-price",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Expensive",
+      "synonyms": [
+        "Expensive",
+        "Pricey",
+        "A little more",
+        "A bit more"
+      ]
+    },
+    {
+      "value": "Medium",
+      "synonyms": [
+        "Whatever price"
+      ]
+    },
+    {
+      "value": "Cheap",
+      "synonyms": [
+        "Cheap",
+        "Low budget",
+        "Not too much",
+        "Cheaper",
+        "Not too expensive",
+        "A little bit less"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

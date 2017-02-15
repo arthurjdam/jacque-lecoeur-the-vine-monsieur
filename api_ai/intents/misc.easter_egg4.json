@@ -1,0 +1,96 @@
+{
+  "userSays": [
+    {
+      "id": "d5391ef3-568b-4dc2-a0af-347f37603b96",
+      "data": [
+        {
+          "text": "Hello there"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8f4f4894-e9f0-4b91-8f5a-8bd9b5c02de2",
+      "data": [
+        {
+          "text": "Hey there"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b961c769-26dd-4441-89ce-5a0956f258ca",
+      "data": [
+        {
+          "text": "Hi"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a299825a-fca1-4d91-b6b0-0b4355e2c80d",
+      "data": [
+        {
+          "text": "Hello!"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "96ad1b9c-22ca-489d-8510-1b3e3871d96f",
+      "data": [
+        {
+          "text": "Who am I talking to?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d2dc72c2-7b48-4f83-96ec-48270283d54c",
+      "data": [
+        {
+          "text": "Tell me something about yourself"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "66567169-8819-4e7f-92a6-dfebb225d264",
+      "data": [
+        {
+          "text": "Who are you?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "99260e9d-b7ec-47a1-a1fc-2498a02f5800",
+  "name": "misc.easter_egg4",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Bien sûr! I’m Jacque, a passionate wine expert. Born and raised in France, but living in California and happy to help with all your questions about the nectar of the gods also known as wine."
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

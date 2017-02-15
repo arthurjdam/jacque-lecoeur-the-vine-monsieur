@@ -1,0 +1,73 @@
+{
+  "userSays": [
+    {
+      "id": "1ea33c49-f5ee-4b3d-acf9-4631286ed3fe",
+      "data": [
+        {
+          "text": "Do you know how old it is?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "07eb7142-33e5-413d-9834-20647c35a807",
+      "data": [
+        {
+          "text": "What year is this wine from?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0a96edae-9007-4449-bd7f-45625ff8c7d4",
+      "data": [
+        {
+          "text": "What\u0027s the age of this?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "52d9db40-01bf-43ec-947f-c559ae7a1f67",
+      "data": [
+        {
+          "text": "How old is this one?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "802d6922-478c-44b8-82bf-6659b0cd658d",
+  "name": "recommend.detail.age",
+  "auto": true,
+  "contexts": [
+    "identified"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "identified",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

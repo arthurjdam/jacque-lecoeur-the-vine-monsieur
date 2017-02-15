@@ -1,0 +1,63 @@
+{
+  "userSays": [
+    {
+      "id": "8d99c3bc-a625-4356-b2d6-61076f4a52a1",
+      "data": [
+        {
+          "text": "What\u0027s the origin of this wine?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eed3f9d9-71dc-4a3f-bf1f-87abac515d4e",
+      "data": [
+        {
+          "text": "What is the heritage?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d9dd8ec0-fb07-4c9a-b725-3a1a7ce84b06",
+      "data": [
+        {
+          "text": "Where is this from?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "98b4f0b8-8736-4e0b-839a-f31cf5435740",
+  "name": "recommend.detail.location",
+  "auto": true,
+  "contexts": [
+    "identified"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "identified",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

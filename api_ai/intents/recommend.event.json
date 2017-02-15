@@ -1,0 +1,153 @@
+{
+  "userSays": [
+    {
+      "id": "ab46c119-49bd-4d71-b5f9-25900af6f8f0",
+      "data": [
+        {
+          "text": "I\u0027m serving "
+        },
+        {
+          "text": "steak",
+          "alias": "wine-pairing",
+          "meta": "@wine-pairing",
+          "userDefined": false
+        },
+        {
+          "text": " at a "
+        },
+        {
+          "text": "dinner",
+          "alias": "event",
+          "meta": "@event",
+          "userDefined": false
+        },
+        {
+          "text": ", what have you got?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9d9355e7-789f-4898-aede-c0d5ff875a18",
+      "data": [
+        {
+          "text": "What could you recommend to serve at a "
+        },
+        {
+          "text": "formal",
+          "alias": "event",
+          "meta": "@event",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "dinner",
+          "alias": "event",
+          "meta": "@event",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c74d26e2-d1f0-4bdc-892f-8cf36e0f24d1",
+      "data": [
+        {
+          "text": "I have a "
+        },
+        {
+          "text": "lunch",
+          "alias": "event",
+          "meta": "@event",
+          "userDefined": true
+        },
+        {
+          "text": " where I\u0027m serving "
+        },
+        {
+          "text": "fish",
+          "alias": "wine-pairing",
+          "meta": "@wine-pairing",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "73400fc8-f16e-49b9-8444-23654b437c64",
+      "data": [
+        {
+          "text": "I\u0027m hosting a "
+        },
+        {
+          "text": "dinner",
+          "alias": "event",
+          "meta": "@event",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "party",
+          "alias": "event",
+          "meta": "@event",
+          "userDefined": false
+        },
+        {
+          "text": ", what would you recommend?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "3b1d1ec9-d93e-49bf-a83c-a36df3dfd786",
+  "name": "recommend.event",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "required": true,
+          "dataType": "@event",
+          "name": "event",
+          "value": "$event",
+          "prompts": [
+            "What\u0027s the occasion? I this an event?"
+          ],
+          "isList": false
+        },
+        {
+          "required": true,
+          "dataType": "@wine-pairing",
+          "name": "wine-pairing",
+          "value": "$wine-pairing",
+          "prompts": [
+            "What food will you be serving?"
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

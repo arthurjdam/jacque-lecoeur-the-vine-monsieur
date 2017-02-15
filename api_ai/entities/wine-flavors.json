@@ -1,0 +1,119 @@
+{
+  "id": "94f4ac0c-0fc6-4bca-9000-87115e4c506b",
+  "name": "wine-flavors",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Body",
+      "synonyms": [
+        "Body",
+        "Rounded",
+        "Rich",
+        "Rich body",
+        "Round",
+        "Balance",
+        "Balanced"
+      ]
+    },
+    {
+      "value": "Aroma",
+      "synonyms": [
+        "Aroma",
+        "Closed",
+        "Aromatic"
+      ]
+    },
+    {
+      "value": "Buttery",
+      "synonyms": [
+        "Buttery"
+      ]
+    },
+    {
+      "value": "Crisp",
+      "synonyms": [
+        "Crisp"
+      ]
+    },
+    {
+      "value": "Dry",
+      "synonyms": [
+        "Dry"
+      ]
+    },
+    {
+      "value": "Sweet",
+      "synonyms": [
+        "Sweet",
+        "Sugar",
+        "Rich"
+      ]
+    },
+    {
+      "value": "Earthy",
+      "synonyms": [
+        "Earthy",
+        "Forest",
+        "Mushrooms",
+        "Dirt"
+      ]
+    },
+    {
+      "value": "Firm",
+      "synonyms": [
+        "Firm"
+      ]
+    },
+    {
+      "value": "Grassy",
+      "synonyms": [
+        "Grassy",
+        "Grass",
+        "Lemon grass",
+        "Green"
+      ]
+    },
+    {
+      "value": "Alcoholic",
+      "synonyms": [
+        "Alcoholic",
+        "Heavy",
+        "Hot",
+        "Powerfull"
+      ]
+    },
+    {
+      "value": "Vinegary",
+      "synonyms": [
+        "Vinegary",
+        "Vinegar"
+      ]
+    },
+    {
+      "value": "Sour",
+      "synonyms": [
+        "Sour",
+        "Unbalanced"
+      ]
+    },
+    {
+      "value": "Smooth",
+      "synonyms": [
+        "Smooth"
+      ]
+    },
+    {
+      "value": "Oaky",
+      "synonyms": [
+        "Oaky",
+        "Oak",
+        "Vanilla",
+        "Creamy",
+        "Smokey",
+        "Nutmeg"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

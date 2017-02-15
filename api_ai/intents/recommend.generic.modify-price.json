@@ -1,0 +1,107 @@
+{
+  "userSays": [
+    {
+      "id": "f7f15634-f1bd-4d00-aad2-e51a676988ba",
+      "data": [
+        {
+          "text": "It can be "
+        },
+        {
+          "text": "a bit more",
+          "alias": "wine-price",
+          "meta": "@wine-price",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "expensive",
+          "alias": "wine-price",
+          "meta": "@wine-price",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "803db06f-db25-42ed-a143-981a8a6ca828",
+      "data": [
+        {
+          "text": "Can I get a more "
+        },
+        {
+          "text": "expensive",
+          "alias": "wine-price",
+          "meta": "@wine-price",
+          "userDefined": false
+        },
+        {
+          "text": " one"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "56fcd788-ea49-4eef-a4ff-c0fde3e68622",
+      "data": [
+        {
+          "text": "How about a "
+        },
+        {
+          "text": "cheaper",
+          "alias": "wine-price",
+          "meta": "@wine-price",
+          "userDefined": false
+        },
+        {
+          "text": " one"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "161a3a26-540c-447f-a7fe-b69adc675c8b",
+  "name": "recommend.generic.modify-price",
+  "auto": true,
+  "contexts": [
+    "recommend"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "recommend",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "required": true,
+          "dataType": "@wine-price",
+          "name": "wine-price",
+          "value": "$wine-price",
+          "prompts": [
+            "Would you like it to be cheap or expensive?"
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

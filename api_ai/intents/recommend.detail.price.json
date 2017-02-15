@@ -1,0 +1,76 @@
+{
+  "userSays": [
+    {
+      "id": "4927f1e3-f2a7-4a9d-b256-3c160d1bb030",
+      "data": [
+        {
+          "text": "What\u0027s the price?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a3465b62-afcf-413f-8b48-0606e85493f4",
+      "data": [
+        {
+          "text": "Is it "
+        },
+        {
+          "text": "expensive",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e848f22f-e497-439e-932a-f925dbd6f272",
+      "data": [
+        {
+          "text": "How much does it cost?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "a367ed34-fd97-4d14-8fd1-04762647d207",
+  "name": "recommend.detail.price",
+  "auto": true,
+  "contexts": [
+    "recommend",
+    "identified"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "recommend",
+          "lifespan": 5
+        },
+        {
+          "name": "identified",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

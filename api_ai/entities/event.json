@@ -1,0 +1,40 @@
+{
+  "id": "9aef1a88-241c-440f-8e05-3d7966d30821",
+  "name": "event",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Formal",
+      "synonyms": [
+        "Formal",
+        "Formal event",
+        "Black tie",
+        "White tie",
+        "Dinner"
+      ]
+    },
+    {
+      "value": "Party",
+      "synonyms": [
+        "Party",
+        "Girls night",
+        "Birthday"
+      ]
+    },
+    {
+      "value": "Light",
+      "synonyms": [
+        "Light",
+        "Brunch"
+      ]
+    },
+    {
+      "value": "lunch",
+      "synonyms": [
+        "lunch"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

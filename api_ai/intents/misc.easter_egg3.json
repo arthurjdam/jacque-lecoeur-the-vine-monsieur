@@ -1,0 +1,72 @@
+{
+  "userSays": [
+    {
+      "id": "678ce967-142e-48c4-aa0d-a70728961420",
+      "data": [
+        {
+          "text": "Why is wine "
+        },
+        {
+          "text": "white",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5d2443f9-f912-4cdb-bb2c-2e4ad3435923",
+      "data": [
+        {
+          "text": "Why is wine "
+        },
+        {
+          "text": "red",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "316f0b05-a521-497f-b2e0-ff54755f3c3b",
+      "data": [
+        {
+          "text": "How does wine get its colour?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "7ba79259-085d-4759-ab1c-46b1110c48c6",
+  "name": "misc.easter_egg3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "The color is an element in the classification of wines and mainly depends on the color of the drupe of the grape variety. Color is also an element in wine tasting since heavy wines generally have a deeper color.\n\nAnything in particular you\u0027re interested in?"
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,135 @@
+{
+  "id": "d7f580bb-67fa-4748-8cb9-a8f3eac57303",
+  "name": "wine-type",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Red",
+      "synonyms": [
+        "Red",
+        "cabernet franc",
+        "Gamay",
+        "Garnacha",
+        "Nebbiolo",
+        "Sangiovese",
+        "Shiraz"
+      ]
+    },
+    {
+      "value": "White",
+      "synonyms": [
+        "White",
+        "Chenin Blanc",
+        "Gewürztraminer",
+        "Marsanne",
+        "Muscat",
+        "Pinot Blanc",
+        "Roussanne",
+        "Viognier",
+        "Grüner Veltliner"
+      ]
+    },
+    {
+      "value": "Rosé",
+      "synonyms": [
+        "Rosé",
+        "Blend",
+        "Mix"
+      ]
+    },
+    {
+      "value": "Cabernet Sauvignon",
+      "synonyms": [
+        "Cabernet",
+        "Cab Sov",
+        "Cabernet Sauvignon",
+        "Cabernet Sauvignon"
+      ]
+    },
+    {
+      "value": "Pinot Noir",
+      "synonyms": [
+        "Pinot",
+        "Pinot Noir"
+      ]
+    },
+    {
+      "value": "Chardonnay",
+      "synonyms": [
+        "Chardonnay"
+      ]
+    },
+    {
+      "value": "Pinot Blanc",
+      "synonyms": [
+        "Pinot Blanc"
+      ]
+    },
+    {
+      "value": "Riesling",
+      "synonyms": [
+        "Riesling"
+      ]
+    },
+    {
+      "value": "Merlot",
+      "synonyms": [
+        "Merlot"
+      ]
+    },
+    {
+      "value": "Cabernet Franc",
+      "synonyms": [
+        "Cabernet Franc"
+      ]
+    },
+    {
+      "value": "Shiraz",
+      "synonyms": [
+        "Shiraz"
+      ]
+    },
+    {
+      "value": "Zinfadel",
+      "synonyms": [
+        "Zinfadel"
+      ]
+    },
+    {
+      "value": "Garnacha",
+      "synonyms": [
+        "Garnacha"
+      ]
+    },
+    {
+      "value": "Muscat",
+      "synonyms": [
+        "Muscat"
+      ]
+    },
+    {
+      "value": "Chianti",
+      "synonyms": [
+        "Chianti"
+      ]
+    },
+    {
+      "value": "Sparkling",
+      "synonyms": [
+        "Sparkling",
+        "Prosecco",
+        "Cava",
+        "Champagne"
+      ]
+    },
+    {
+      "value": "Pinot Gris/Grigio",
+      "synonyms": [
+        "Pinot Gris",
+        "Grigio"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}
