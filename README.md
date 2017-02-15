@@ -5,7 +5,7 @@ A slightly pretentieus non-so-French man who'll suggest you wine. Taps into Goog
 ### Installation ###
 
 The wine data can be pulled from: <https://s3.amazonaws.com/arthurdam/store/out.json>
-Just push it all into a MongoDB and put it's credentials into the mongoose initializer (in </model/wine.js>)
+Just push it all into a MongoDB and put it's credentials into the mongoose initializer (in /model/wine.js)
 
 ```
 npm install
